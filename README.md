@@ -1,5 +1,5 @@
 # test-3.0
-Tilda Publishing: functional testing of an online store.
+Functional testing of an online store.
 #
 10.10.24 г.
 Добавлена интеллект-карта v1 в формате jpg и xmind - подготовка к составлению чек-листов.
